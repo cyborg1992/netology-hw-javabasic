@@ -14,6 +14,7 @@
         <module>tree-collections/treemap</module>
         <module>tree-collections/treeset</module>
         <module>class-structure</module>
+        <module>one-dimensional-array</module>
     </modules>
 
     <name>netology-hw-javabasic</name>
