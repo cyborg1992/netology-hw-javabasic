@@ -23,6 +23,8 @@
         <module>abstractions-interfaces/bills</module>
         <module>exceptions/resource-access</module>
         <module>exceptions/msg-validation</module>
+        <module>list</module>
+        <module>queue</module>
     </modules>
 
     <name>netology-hw-javabasic</name>
