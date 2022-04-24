@@ -19,6 +19,8 @@
         <module>multidimensional-array/tic-tac-toe</module>
         <module>polymorphism/shooter-game</module>
         <module>polymorphism/task-by-accountants</module>
+        <module>abstractions-interfaces/library</module>
+        <module>abstractions-interfaces/bills</module>
     </modules>
 
     <name>netology-hw-javabasic</name>
