@@ -21,6 +21,8 @@
         <module>polymorphism/task-by-accountants</module>
         <module>abstractions-interfaces/library</module>
         <module>abstractions-interfaces/bills</module>
+        <module>exceptions/resource-access</module>
+        <module>exceptions/msg-validation</module>
     </modules>
 
     <name>netology-hw-javabasic</name>
