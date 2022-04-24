@@ -17,6 +17,8 @@
         <module>one-dimensional-array</module>
         <module>multidimensional-array/rotate-matrix</module>
         <module>multidimensional-array/tic-tac-toe</module>
+        <module>polymorphism/shooter-game</module>
+        <module>polymorphism/task-by-accountants</module>
     </modules>
 
     <name>netology-hw-javabasic</name>
